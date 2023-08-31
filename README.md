@@ -1,4 +1,4 @@
-# menuGrid
+# Digital menu with Grid
 Template for a digital menu using Grid
 
 > *Visit here:* https://nicknamed19.github.io/menuGrid/
